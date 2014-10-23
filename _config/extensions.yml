@@ -1,0 +1,6 @@
+---
+Name: hidehistory-extensions
+---
+Page:
+  extensions:
+    - HideHistory

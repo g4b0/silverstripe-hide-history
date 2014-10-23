@@ -1,0 +1,8 @@
+/* 
+    Created on : 23-Oct-2014, 11:30:31
+    Author     : Gabriele Brosulo <gabriele.brosulo@zirak.it>
+*/
+
+.cms-tabset-nav-primary > li:nth-child(3n){
+	display: none;
+}

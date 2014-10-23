@@ -1,0 +1,15 @@
+{
+    "name": "zirak/hide-history",
+    "description": "Hide history tab in CMS for non-admin users. Workaround for issue 1120 [https://github.com/silverstripe/silverstripe-cms/issues/1120]",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "cms", "history"],
+    "license": "GPL-2",
+    "authors": [{
+        "name": "Gabriele Brosulo - Zirak",
+        "email": "gabriele.brosulo@zirak.it"
+    }],
+    "require": {
+        "silverstripe/framework": "3.1.*",
+        "silverstripe/cms": "3.1.*"
+    }
+}
